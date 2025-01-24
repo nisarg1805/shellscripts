@@ -1,5 +1,14 @@
 #!/bin/bash
 
+###############
+# Author: Nisarg
+# Date: 24/01/2025
+#
+# Discription: just a sample file 
+#
+# Version: v1
+# #############
+#
 # create folder
 mkdir bashscript
 
